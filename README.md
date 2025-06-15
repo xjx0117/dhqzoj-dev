@@ -7,6 +7,18 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/hydro-dev/Hydro)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hydro-dev/Hydro)
 
+# 公告
+
+定海七中OJ的合作者们：
+
+定海七中OJ搭建接近尾声，感谢所有参与者的陪伴与坚持，现将优化内容告知如下：
+
+1.部分文件夹文件还未上传
+
+2.packages文件夹需要重新编码
+
+谢谢！
+
 定海七中OJ是一个高效信息学在线测评系统。易安装，跨平台，多功能，可扩展，有题库。
 
 定海七中OJ是基于Hydro的开源编程测评系统
